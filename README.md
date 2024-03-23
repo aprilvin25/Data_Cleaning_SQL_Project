@@ -1,7 +1,7 @@
 #  Investigating SQL Techniques for Cleaning Nashville Housing Data 
 
 ## About
-
+Source: https://youtu.be/8rO7ztF4NtU?si=ltp7CHPuxGfiHbT_ 
 ## Aim of the Project
 
 ## About the Data
