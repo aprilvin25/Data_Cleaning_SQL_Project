@@ -3,7 +3,7 @@
 ## About
 
 ## Credits
-This project was inspired by the following YouTube tutorial:
+This project is based on the following YouTube tutorial:
 - **Title**: Data Analyst Portfolio Project | Data Cleaning in SQL 
 - **Creator**: Alex the Analyst (Alex Freberg)
 - **Link**: https://youtu.be/8rO7ztF4NtU?si=ltp7CHPuxGfiHbT_ 
