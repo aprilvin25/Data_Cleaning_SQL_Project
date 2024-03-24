@@ -1,12 +1,18 @@
 #  Investigating SQL Techniques for Cleaning Nashville Housing Data 
 
 ## About
-Source: https://youtu.be/8rO7ztF4NtU?si=ltp7CHPuxGfiHbT_ 
+
+## Credits
+This project was inspired by the following YouTube tutorial:
+- **Title**: Data Analyst Portfolio Project | Data Cleaning in SQL 
+- **Creator**: Alex the Analyst (Alex Freberg)
+- **Link**: https://youtu.be/8rO7ztF4NtU?si=ltp7CHPuxGfiHbT_ 
+
 ## Aim of the Project
 
 ## About the Data
 
-_____ Table:   
+_____ Tab le:   
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
