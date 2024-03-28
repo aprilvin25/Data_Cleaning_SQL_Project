@@ -32,32 +32,20 @@ _____ Tab le:
 2. **Data Cleaning:**  
 > SQL techniques employed:
 > 1.  
-
 > 2.  
-
 > 3.  
 
-## Business Questions To Answer
+## Data Cleaning Plan 
+1. Standardize the date format 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 
-### Generic Questions / Descriptive Statistics
 
-1. How many months are in the dataset?
-2.  
 
-### Product Questions
-
-1. ----
-2. ----
-
-### Sales Questions
-
-1. ----
-2. 2. ---
-
-### Customer Questions
-
-1. ----
-2. ----
 
 
 
