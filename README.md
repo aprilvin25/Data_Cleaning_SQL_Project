@@ -22,21 +22,11 @@ _____ Tab le:
 | price                   | Price of menu item in USD               | VARCHAR(30)    |
 
 
-_____ Table:   
-
-| Column                  | Description                             | Data Type      |
-| :---------------------- | :-------------------------------------- | :------------- |
-| order_details_id        | Unique ID of an item in an order        | BIGINT         |
-| order_id                | ID of an order                          | BIGINT     |
-| order_date              | Date of an order was put in             | DATETIME    |
-| order_time              | Time order was put in                   | DATEIME    |
-| item_id                 | Foreign key to menu_item_id in Menu_items table | BIGINT  |
-
 ## Method
 
 1. **Data Prepration and Database setup:**   
 > 1. Create a database
-> 2. Create tables with its corresponding data type
+> 2. Find and Replace blanks in Excel and change to "NULL"
 > 3. Import data with Data Import Wizard
 
 2. **Feature Engineering:** Create new columns from existing ones. 
