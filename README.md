@@ -29,20 +29,13 @@ _____ Tab le:
 > 2. Find and Replace blanks in Excel and change to "NULL"
 > 3. Import data with Data Import Wizard
 
-2. **Feature Engineering:** Create new columns from existing ones. 
-
+2. **Data Cleaning:**  
+> SQL techniques employed:
 > 1.  
 
 > 2.  
 
 > 3.  
-
-3. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
-> SQL techniques employed:
- - 
- - 
-
-4. **Conclusion:**
 
 ## Business Questions To Answer
 
@@ -67,4 +60,4 @@ _____ Tab le:
 2. ----
 
 
-## Revenue And Profit Calculations
+
